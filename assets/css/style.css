@@ -15,7 +15,7 @@ body {
   min-height: 100vh;
   background-position: center;
   background-size: cover !important;
-  background: url(Firewatch-4K-Wallpaper-3840x2160.jpg);
+  background: url(/assets/img/Firewatch-4K-Wallpaper-3840x2160.jpg);
 }
 
 /* Bagian form */
